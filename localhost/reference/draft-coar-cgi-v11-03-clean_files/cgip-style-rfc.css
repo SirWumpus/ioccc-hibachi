@@ -1,0 +1,31 @@
+/*
+ * Styles for the base documents used by the CGI RFC project.
+ */
+
+BODY {
+    background-color: silver;
+}
+
+/*
+ * Standard styles for marking up drafts and RFC documents.
+ */
+
+.closed {
+    color: silver
+}
+
+.rev-01 {
+    color: green
+}
+
+.rev-02 {
+    color: red;
+}
+
+.rev-03 {
+    color: fuchsia;
+}
+
+.rev-04 {
+    color: cyan;
+}
